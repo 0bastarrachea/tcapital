@@ -752,8 +752,6 @@ address {
 	background-size: auto 100%;
 }
 
-.darkness{filter:brightness(0.4);}
-
 @media (max-width: 575px) {
 	.bg-image-1 {
 		background-image: none !important;
