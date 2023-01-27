@@ -723,6 +723,12 @@ address {
 	background-image: url(./black-marble-patterned-texture-background-marble-thailand-abstract-natural-marble-black-white-design.jpg);
 }
 
+.bg-marmolg {
+	background-image: url(./black-gold-marble-texture.jpg);
+}
+
+.bg-gold{background-image: url(./bg-gold.png);}
+
 .bg-image {
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -745,6 +751,8 @@ address {
 	-webkit-background-size: auto 100%;
 	background-size: auto 100%;
 }
+
+.darkness{filter:brightness(0.4);}
 
 @media (max-width: 575px) {
 	.bg-image-1 {
