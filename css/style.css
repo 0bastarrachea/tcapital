@@ -76,7 +76,7 @@ body {
 .page-head {
 	position: relative;
 	z-index: 1080;
-	background-color: #fff;
+	background-color: #000;
 }
 
 /*
@@ -11264,7 +11264,7 @@ html:not(.lt-ie10) .not-animated {
 	width: 260px;
 	padding: 25px 15px;
 	box-shadow: none;
-	color: #00030a;
+	color: #000;
 	background: #fff;
 	font-size: 16px;
 	line-height: 34px;
@@ -11306,7 +11306,7 @@ html:not(.lt-ie10) .not-animated {
 	font-size: 16px;
 	line-height: 34px;
 	color: #00030a;
-	background: #fff;
+	background: #000;
 	z-index: 998;
 }
 
@@ -11494,7 +11494,7 @@ html:not(.lt-ie10) .not-animated {
 	display: block;
 	font-size: 16px;
 	padding: 14px 56px 14px 16px;
-	color: #535457;
+	color: #fff;
 }
 
 .rd-navbar-fixed .rd-navbar-nav li:hover > a, .rd-navbar-fixed .rd-navbar-nav li:hover > a:hover, .rd-navbar-fixed .rd-navbar-nav li.focus > a, .rd-navbar-fixed .rd-navbar-nav li.focus > a:hover, .rd-navbar-fixed .rd-navbar-nav li.active > a, .rd-navbar-fixed .rd-navbar-nav li.active > a:hover, .rd-navbar-fixed .rd-navbar-nav li.opened > a, .rd-navbar-fixed .rd-navbar-nav li.opened > a:hover {
